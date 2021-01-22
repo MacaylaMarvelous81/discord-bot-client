@@ -1,20 +1,8 @@
-![BOT CLIENT](https://s12.directupload.net/images/200907/zcpxtyxp.png)
-
-<div>
-  <p>
-    <a href="https://www.patreon.com/flam3rboy" data-patreon-widget-type="become-patron-button"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="85"></a>
-  </p>
-    
-
-| [Download](https://github.com/Flam3rboy/discord-bot-client/releases/tag/3.1.0) | [FAQ](https://github.com/Flam3rboy/discord-bot-client/blob/master/FAQ.md) | [Tutorial](https://www.youtube.com/watch?v=AmKBFzJOMpY) |
-| :---: | :---: | :---: |
-
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MacaylaMarvelous81&show_icons=true&repo=discord-bot-client&theme=radical">
 
 ---
 
 **Discord Bot Client** allows you to use your bot, just like any other user account, except Friends and Groups. 
-**No longer Maintained, only security flaws and critical errors**
 
 ---
 ![Features](https://s12.directupload.net/images/200907/9m8qldwi.png)
@@ -38,12 +26,9 @@
 >  __You need to install [NodeJS](https://nodejs.org/en/download/).__ Install git or just download the repository as a zip file:
 
 ```js
-git clone https://github.com/Flam3rboy/discord-bot-client
+git clone https://github.com/MacaylaMarvelous81/discord-bot-client
 cd discord-bot-client/electron
 ```
 
 >  Install all dependencies with ```npm i``` start Bot Client with ```electron .```
 >  
-
-
-*Discord Bot Client is **no longer supported** and also no longer updated or maintained.*
