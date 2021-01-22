@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MacaylaMarvelous81&show_icons=true&repo=discord-bot-client&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MacaylaMarvelous81&show_icons=true&repo=discord-bot-client&theme=radical&show_author=true">
 
 ---
 
