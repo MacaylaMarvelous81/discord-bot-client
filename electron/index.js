@@ -12,6 +12,7 @@ async function createWindow() {
 		width: 1920,
 		height: 1080,
 		icon: __dirname + "/buildResources/icon.png",
+		show: false,
 		webPreferences: {
 			webSecurity: true,
 			nodeIntegration: false,
@@ -19,6 +20,8 @@ async function createWindow() {
 			contextIsolation: true,
 		},
 	});
+	win.maximize()
+	win.show()
 	// win.webContents.openDevTools();
 	win.webContents.on("did-navigate", () => {
 		win.webContents.executeJavaScript(`document.write(atob("${btoa(html)}"))`);
